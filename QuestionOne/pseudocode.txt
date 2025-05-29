@@ -1,0 +1,14 @@
+Question one
+
+Input
+Disaster(String)
+
+Process
+
+Create a list of objects contains disastors, agencies and correspondance supplies
+Create a method that takes in a disastor and list of objects
+Iterate through the list of objects, if disaster exist in the list, display object with the disastor name, it's agency and supplies
+Else if disastor doesn't exist in the list add it to the list and display Emergency team and supplies
+
+Output
+A list of objects
