@@ -1,0 +1,16 @@
+Question3
+Design a calender app that stores events for multiple users. the users should be able to add,delete and retrieve events from the calender
+
+Input
+A list of events
+
+Process
+
+Create a function calendar_app that  takes in a list of events
+Initialize an empty list to store events
+Add a method to add an event to the event list
+Add another method to remove events from the events list corresponding to the specified index
+Add a method to retrieve events from the events calendar
+
+Output
+A list of events
