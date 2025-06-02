@@ -11,3 +11,13 @@ and appointment history. Additionally, users should have the option to record ne
 
 ## QUESTION 3
 Design a calender app that stores events for multiple users. the users should be able to add,delete and retrieve events from the calender
+
+## Group 19 Members
+|             Name              |
+|-------------------------------|
+|    Jacqueline Nyinawabagesera |
+|    Bonnette Umutoni           |
+|    Ameer Akech Majak          |
+
+
+
